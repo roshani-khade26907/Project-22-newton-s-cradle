@@ -131,8 +131,6 @@ function draw() {
   ellipse(bob4.position.x,bob4.position.y,25);
   ellipse(bob5.position.x,bob5.position.y,25);
 
-  keyPressed();
-
 }
 
 //Write keyPressed function and apply force on pressing up_arrow key on the first bob.
